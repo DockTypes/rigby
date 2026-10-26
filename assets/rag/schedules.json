@@ -1,0 +1,3624 @@
+[
+  {
+    "specialization": "computer-science",
+    "year": 1,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Algebraical fundamentals of informatics",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Iorgulescu G.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Algebraical fundamentals of informatics",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Iorgulescu G.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Differential and integral calculus",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Sburlan C.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Specialization Practice",
+            "type": "Laborator",
+            "group_target": "cs1",
+            "professor": "dr. Sburlan D.",
+            "room": "E29",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Specialization Practice",
+            "type": "Laborator",
+            "group_target": "cs1",
+            "professor": "dr. Sburlan D.",
+            "room": "E29",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Analytic and differential geometry",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Bobe A.",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "11:00",
+            "course": "Fundamental Algorithms",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Nicola A.",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "11:00",
+            "end": "12:00",
+            "course": "Fundamental Algorithms",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Nicola A.",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Fundamental Algorithms",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Nicola A.",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamental Algorithms",
+            "type": "Laborator",
+            "group_target": "cs1",
+            "professor": "Boldeanu Marius-Paul",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Analytic and differential geometry",
+            "type": "Laborator",
+            "group_target": "cs1",
+            "professor": "dr. Bobe A.",
+            "room": "PC101",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "cs1",
+            "professor": "dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Differential and Integral Calculus",
+            "type": "Seminar",
+            "group_target": "cs1",
+            "professor": "asist. drd. Vintu V.",
+            "room": "S1B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Limba franceza",
+            "type": "Seminar",
+            "group_target": "cs1",
+            "professor": "dr. Simion Andreea",
+            "room": "",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Object Oriented Programming",
+            "type": "Curs",
+            "group_target": "cs1",
+            "professor": "dr. Puchianu C.",
+            "room": "P45 (Corp A)",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Object oriented programming I",
+            "type": "Laborator",
+            "group_target": "cs1",
+            "professor": "dr. Puchianu C.",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "computer-science",
+    "year": 2,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "cs2 gr1",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Limba franceza",
+            "type": "Seminar",
+            "group_target": "cs2 gr1",
+            "professor": "lect. dr. Ionita Anamaria",
+            "room": "PC114",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Web technologies",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "lect. dr. Ciuca M.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Web Technologies",
+            "type": "Laborator",
+            "group_target": "cs2 gr1 Spec. IT",
+            "professor": "Iordachescu Andrei-Valentin",
+            "room": "P19",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Numerical Analysis",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AB1",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Differential and partial differential equations",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "AB1",
+            "parity": "PARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Differential and partial differential equations",
+            "type": "Seminar",
+            "group_target": "cs2 gr1",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Elective V - Object oriented programming II",
+            "type": "Laborator",
+            "group_target": "cs2 gr1",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "PC109",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Probability theory and elements of mathematical statistics",
+            "type": "Seminar",
+            "group_target": "cs2 gr1 Spec. IT",
+            "professor": "Rusu Andreas",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Probability theory and elements of mathematical statistics",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "prof. dr. Vernic R.",
+            "room": "AB1",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Databases",
+            "type": "Laborator",
+            "group_target": "cs2 gr1 Spec. IT",
+            "professor": "Abdula Melissa Merve",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Numerical analysis",
+            "type": "Laborator",
+            "group_target": "cs2 gr1 Spec. IT",
+            "professor": "Rusu Andreas",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Elective V - Object oriented programming II",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "AB1",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Databases",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "conf. dr. Bautu E.",
+            "room": "PC109",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "computer-science",
+    "year": 2,
+    "group": 2,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Limba franceza",
+            "type": "Seminar",
+            "group_target": "cs2, gr2",
+            "professor": "lect. dr. Ionita Anamaria",
+            "room": "PC114",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Probability theory and elements of mathematical statistics",
+            "type": "Laborator",
+            "group_target": "cs2, gr2",
+            "professor": "prof. dr. Vernic R.",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Web technologies",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "lect. dr. Ciuca M.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Web Technologies",
+            "type": "Laborator",
+            "group_target": "cs2, gr2",
+            "professor": "Spec. IT Iordachescu Andrei-Valentin",
+            "room": "P19",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Numerical Analysis",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AB1",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Differential and partial differential equations",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "AB1",
+            "parity": "PARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Differential and partial differential equations",
+            "type": "Seminar",
+            "group_target": "cs2, gr2",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Numerical analysis",
+            "type": "Laborator",
+            "group_target": "cs2, gr2",
+            "professor": "Spec. IT Rusu Andreas",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "cs2, gr2",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Elective V - Object oriented programming II",
+            "type": "Laborator",
+            "group_target": "cs2, gr2",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "PC107",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Databases",
+            "type": "Laborator",
+            "group_target": "cs2, gr2",
+            "professor": "Spec. IT Abdula Melissa Merve",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Probability theory and elements of mathematical statistics",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "prof. dr. Vernic R.",
+            "room": "AB1",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Elective V - Object oriented programming II",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "AB1",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Databases",
+            "type": "Curs",
+            "group_target": "cs2",
+            "professor": "conf. dr. Bautu E.",
+            "room": "PC109",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "computer-science",
+    "year": 3,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Elective IX - Software security",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "AulaB, PC107",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Elective IX - Software security",
+            "type": "Laborator",
+            "group_target": "cs3 gr1",
+            "professor": "conf. dr. Nicola A.",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Computer graphics",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Elective XI - Gaming development",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "PC105",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Computer graphics",
+            "type": "Laborator",
+            "group_target": "cs3 gr1",
+            "professor": "Spec. IT Stoica-Marcu Floris",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Elective XI - Gaming development",
+            "type": "Laborator",
+            "group_target": "cs3 gr1",
+            "professor": "Spec. IT Stoica-Marcu Floris",
+            "room": "P19",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Optimization Techniques",
+            "type": "Laborator",
+            "group_target": "cs3 gr1",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Optimization Techniques",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Elective X - Networks administration",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "PC105",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Elective X - Networks administration",
+            "type": "Laborator",
+            "group_target": "cs3 gr1",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Elective X - Networks administration",
+            "type": "Laborator",
+            "group_target": "cs3 gr1",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Artificial Intelligence",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Artificial Intelligence",
+            "type": "Laborator",
+            "group_target": "cs3 gr1",
+            "professor": "Spec. IT Tronaru Florin",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "computer-science",
+    "year": 3,
+    "group": 2,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Elective IX - Software security",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "AulaB, PC107",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Elective IX - Software security",
+            "type": "Laborator",
+            "group_target": "cs3 gr2",
+            "professor": "conf. dr. Nicola A.",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Computer graphics",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Elective XI - Gaming development",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "PC105",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": []
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Optimization Techniques",
+            "type": "Laborator",
+            "group_target": "cs3 gr2",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Optimization Techniques",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Elective X - Networks administration",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "PC105",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Elective X - Networks administration",
+            "type": "Laborator",
+            "group_target": "cs3 gr2",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Computer graphics",
+            "type": "Laborator",
+            "group_target": "cs3 gr2",
+            "professor": "Spec. IT Stoica-Marcu Floris",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Elective XI - Gaming development",
+            "type": "Laborator",
+            "group_target": "cs3 gr2",
+            "professor": "Spec. IT Stoica-Marcu Floris",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Artificial Intelligence",
+            "type": "Curs",
+            "group_target": "cs3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Elective X - Networks administration",
+            "type": "Laborator",
+            "group_target": "cs3 gr2",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Artificial Intelligence",
+            "type": "Laborator",
+            "group_target": "cs3 gr2",
+            "professor": "Spec. IT Tronaru Florin",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 1,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamentele algebrice ale informaticii",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "prof. dr. Flaut C.",
+            "room": "E226 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Calcul diferential si integral",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "E035 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Algoritmi Fundamentali",
+            "type": "Laborator",
+            "group_target": "info1, gr1",
+            "professor": "lect. dr. Iordache D.",
+            "room": "E143 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Practica de specialitate",
+            "type": "Laborator",
+            "group_target": "info1, gr1",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Practica de specialitate",
+            "type": "Laborator",
+            "group_target": "info1, gr1",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "V3B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamentele algebrice ale informaticii",
+            "type": "Seminar",
+            "group_target": "info1, gr1",
+            "professor": "prof. dr. Flaut C.",
+            "room": "E25",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "info1, gr1",
+            "professor": "lect. dr. Popescu C.",
+            "room": "D2B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Programare orientata pe obiecte",
+            "type": "Laborator",
+            "group_target": "info1, gr1",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "info1, gr1",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Programare orientata pe obiecte",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "P23 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Algoritmi fundamentali",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Iordache D.",
+            "room": "P20 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Algoritmi fundamentali",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Iordache D.",
+            "room": "P20 (Corp B)",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Geometrie analitică și diferențială",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "conf. dr. Bobe A.",
+            "room": "E226 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Geometrie analitica si diferentiala",
+            "type": "Seminar",
+            "group_target": "info1, gr1",
+            "professor": "asist. drd. Vintu V.",
+            "room": "E143 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Calcul diferential si integral",
+            "type": "Laborator",
+            "group_target": "info1, gr1",
+            "professor": "lect. dr. Cirlig G.",
+            "room": "E240 (Corp A)",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 1,
+    "group": 2,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamentele algebrice ale informaticii",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "prof. dr. Flaut C.",
+            "room": "E226 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Calcul diferential si integral",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "E035 (Corp A)",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Programare orientata pe obiecte",
+            "type": "Laborator",
+            "group_target": "info1, gr2",
+            "professor": "Spec. IT Boldeanu Marius-Paul",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Fundamentele algebrice ale informaticii",
+            "type": "Seminar",
+            "group_target": "info1, gr2",
+            "professor": "prof. dr. Flaut C.",
+            "room": "E25",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "info1, gr2",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Algoritmi Fundamentali",
+            "type": "Laborator",
+            "group_target": "info1, gr2",
+            "professor": "lect. dr. Iordache D.",
+            "room": "E29",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "info1, gr2",
+            "professor": "lect. dr. Popescu C.",
+            "room": "E25",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Practica de specialitate",
+            "type": "Laborator",
+            "group_target": "info1, gr2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "E29",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Practica de specialitate",
+            "type": "Laborator",
+            "group_target": "info1, gr2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "E29",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Programare orientata pe obiecte",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "P23 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Algoritmi fundamentali",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Iordache D.",
+            "room": "P20 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Algoritmi fundamentali",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Iordache D.",
+            "room": "P20 (Corp B)",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Geometrie analitică și diferențială",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "conf. dr. Bobe A.",
+            "room": "E226 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Calcul diferential si integral",
+            "type": "Laborator",
+            "group_target": "info1, gr2",
+            "professor": "lect. dr. Cirlig G.",
+            "room": "E241 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Geometrie analitica si diferentiala",
+            "type": "Seminar",
+            "group_target": "info1, gr2",
+            "professor": "asist. drd. Vintu V.",
+            "room": "E143 (Corp A)",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 1,
+    "group": 3,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamentele algebrice ale informaticii",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "prof. dr. Flaut C.",
+            "room": "E226 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Calcul diferential si integral",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Sburlan C.",
+            "room": "E035 (Corp A)",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamentele algebrice ale informaticii",
+            "type": "Seminar",
+            "group_target": "info1 gr3",
+            "professor": "prof. dr. Flaut C.",
+            "room": "E25",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Algoritmi Fundamentali",
+            "type": "Laborator",
+            "group_target": "info1 gr3",
+            "professor": "lect. dr. Iordache D.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "info1 gr3",
+            "professor": "lect. dr. Popescu C.",
+            "room": "E25",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Practica",
+            "type": "Laborator",
+            "group_target": "info1 gr3",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Practica",
+            "type": "Laborator",
+            "group_target": "info1 gr3",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC109",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "info1 gr3",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Programare orientata pe obiecte",
+            "type": "Laborator",
+            "group_target": "info1 gr3",
+            "professor": "Spec. IT Boldeanu Marius-Paul",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Programare orientata pe obiecte",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "conf. dr. Puchianu C.",
+            "room": "P23 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Algoritmi fundamentali",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Iordache D.",
+            "room": "P20 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Algoritmi fundamentali",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "lect. dr. Iordache D.",
+            "room": "P20 (Corp B)",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Geometrie analitică și diferențială",
+            "type": "Curs",
+            "group_target": "info1",
+            "professor": "conf. dr. Bobe A.",
+            "room": "E226 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Calcul diferential si integral",
+            "type": "Laborator",
+            "group_target": "info1 gr3",
+            "professor": "lect. dr. Cirlig G.",
+            "room": "E240 (Corp A)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Geometrie analitica si diferentiala",
+            "type": "Seminar",
+            "group_target": "info1 gr3",
+            "professor": "asist. drd. Vintu V.",
+            "room": "E143 (Corp A)",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Sâmbătă",
+        "slots": []
+      },
+      {
+        "day": "Duminică",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 2,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Tehnologii web",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "lect. dr. Ciuca M.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Calcul numeric",
+            "type": "Laborator",
+            "group_target": "info2, gr1",
+            "professor": "Spec. IT Rusu Andreas",
+            "room": "V3B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "E113 (Corp B)",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Baze de date",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Serban C.",
+            "room": "E113 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Baze de date",
+            "type": "Laborator",
+            "group_target": "info2, gr1",
+            "professor": "Spec. IT Zabet Victorita",
+            "room": "PC105",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Laborator",
+            "group_target": "info2, gr1",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "IMPARA, PC107",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Seminar",
+            "group_target": "info2, gr1",
+            "professor": "prof. dr. Cosma L.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Tehnologii Web",
+            "type": "Laborator",
+            "group_target": "info2, gr1",
+            "professor": "Spec. IT Vilcu Iustin-Alexandru",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "AulaB",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Laborator",
+            "group_target": "info2, gr1",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "info2, gr1",
+            "professor": "lect. dr. Popescu C.",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "info2, gr1",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "PARA, Baza Nautica",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Calcul numeric",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "A01",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "prof. dr.Cosma L.",
+            "room": "A01",
+            "parity": "IMPARA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 2,
+    "group": 2,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "info2, gr2",
+            "professor": "lect. dr. Buiculescu O.",
+            "room": "D2B",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Seminar",
+            "group_target": "info2, gr2",
+            "professor": "prof. dr. Cosma L.",
+            "room": "AB1",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "E113 (Corp B)",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Baze de date",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Serban C.",
+            "room": "E113 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Baze de date",
+            "type": "Laborator",
+            "group_target": "info2, gr2, Spec. IT",
+            "professor": "Zabet Victorita",
+            "room": "PC105",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Laborator",
+            "group_target": "info2, gr2",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "PC107",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "info2, gr2",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Tehnologii web",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "lect. dr. Ciuca M.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Tehnologii Web",
+            "type": "Laborator",
+            "group_target": "info2, gr2, Spec. IT",
+            "professor": "Vilcu Iustin-Alexandru",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "AulaB",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Calcul numeric",
+            "type": "Laborator",
+            "group_target": "info2, gr2, Spec. IT",
+            "professor": "Rusu Andreas",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Laborator",
+            "group_target": "info2, gr2",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "S1B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Calcul numeric",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "A01",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "prof. dr.Cosma L.",
+            "room": "A01",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Sâmbătă",
+        "slots": []
+      },
+      {
+        "day": "Duminică",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 2,
+    "group": 3,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Tehnologii web",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "lect. dr. Ciuca M.",
+            "room": "AulaB",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "E113 (Corp B)",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Baze de date",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Serban C.",
+            "room": "E113 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Baze de date",
+            "type": "Laborator",
+            "group_target": "info2 gr3",
+            "professor": "Spec. IT Zabet Victorita",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Calcul numeric",
+            "type": "Laborator",
+            "group_target": "info2 gr3",
+            "professor": "Spec. IT Rusu Andreas",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Laborator",
+            "group_target": "info2 gr3",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "PC107",
+            "parity": "PARA"
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Seminar",
+            "group_target": "info2 gr3",
+            "professor": "prof. dr. Cosma L.",
+            "room": "AB1",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "AulaB",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "info2 gr3",
+            "professor": "lect. dr. Popescu C.",
+            "room": "PC107",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Laborator",
+            "group_target": "info2 gr3",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Tehnologii Web",
+            "type": "Laborator",
+            "group_target": "info2 gr3",
+            "professor": "Spec. IT Vilcu Iustin-Alexandru",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "info2 gr3",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Calcul numeric",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "A01",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "prof. dr.Cosma L.",
+            "room": "A01",
+            "parity": "IMPARA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 2,
+    "group": 4,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Tehnologii web",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "lect. dr. Ciuca M.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Baze de date",
+            "type": "Laborator",
+            "group_target": "info2 gr4",
+            "professor": "Spec. IT Zabet Victorita",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "E113 (Corp Β)",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Baze de date",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Serban C.",
+            "room": "E113 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Tehnologii Web",
+            "type": "Laborator",
+            "group_target": "info2 gr4",
+            "professor": "Spec. IT Vilcu Iustin-Alexandru",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Calculabilitate si complexitate",
+            "type": "Laborator",
+            "group_target": "info2 gr4",
+            "professor": "conf. dr. Sburlan D.",
+            "room": "PC107",
+            "parity": "PARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "info2 gr4",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "info2 gr4",
+            "professor": "lect. dr. Popescu C.",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "AulaB",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Teoria probabilitatilor si elemente de statistica matematica",
+            "type": "Laborator",
+            "group_target": "info2 gr4",
+            "professor": "conf. dr. Ibadula D.",
+            "room": "CE1 (Unirii)",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Calcul numeric",
+            "type": "Laborator",
+            "group_target": "info2 gr4",
+            "professor": "Spec. IT Rusu Andreas",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Calcul numeric",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "conf. dr. Pelican E.",
+            "room": "A01",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Seminar",
+            "group_target": "info2 gr4",
+            "professor": "prof. dr. Cosma L.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Ecuatii diferentiale si cu derivate partiale",
+            "type": "Curs",
+            "group_target": "info2",
+            "professor": "prof. dr.Cosma L.",
+            "room": "A01",
+            "parity": "IMPARA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 3,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Inteligenta artificiala",
+            "type": "Laborator",
+            "group_target": "info3 gr1",
+            "professor": "Spec. IT Barnat Emil",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Fundamente blockchain",
+            "type": "Laborator",
+            "group_target": "info3 gr1",
+            "professor": "lect. dr. Iordache D",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Grafica pe calculator",
+            "type": "Laborator",
+            "group_target": "info3 gr1",
+            "professor": "Spec. IT Murariu Alexandru",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Securitatea sistemelor informatice",
+            "type": "Laborator",
+            "group_target": "info3 gr1",
+            "professor": "Spec. IT Cata Marian",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Tehnici de optimizare",
+            "type": "Laborator",
+            "group_target": "info3 gr1",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC114",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional IX - Securitatea sistemelor informatice",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "AulaB",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr1",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Grafica pe calculator",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "AulaB",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Inteligenta artificiala",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "A5 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "A5 (Corp B)",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Fundamentele Blockchain",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Iordache D.",
+            "room": "AulaB",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Tehnici de optimizare",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr1",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 3,
+    "group": 2,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamente blockchain",
+            "type": "Laborator",
+            "group_target": "info3 gr2",
+            "professor": "lect. dr. Iordache D",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Inteligenta artificiala",
+            "type": "Laborator",
+            "group_target": "info3 gr2 Spec. IT",
+            "professor": "Barnat Emil",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional IX - Securitatea sistemelor informatice",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "AulaB",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Tehnici de optimizare",
+            "type": "Laborator",
+            "group_target": "info3 gr2",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC114",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Securitatea sistemelor informatice",
+            "type": "Laborator",
+            "group_target": "info3 gr2 Spec. IT",
+            "professor": "Cata Marian",
+            "room": "PC109",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr2",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Grafica pe calculator",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Grafica pe calculator",
+            "type": "Laborator",
+            "group_target": "info3 gr2 Spec. IT",
+            "professor": "Murariu Alexandru",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Inteligenta artificiala",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "A5 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "A5 (Corp B)",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Fundamentele Blockchain",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Iordache D.",
+            "room": "AulaB",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Tehnici de optimizare",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr2",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 3,
+    "group": 3,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": []
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Fundamente blockchain",
+            "type": "Laborator",
+            "group_target": "info3 gr3",
+            "professor": "lect. dr. Iordache D.",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Securitatea sistemelor informatice",
+            "type": "Laborator",
+            "group_target": "info3 gr3",
+            "professor": "Spec. IT Cata Marian",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Tehnici de optimizare",
+            "type": "Laborator",
+            "group_target": "info3 gr3",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC114",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional IX - Securitatea sistemelor informatice",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Grafica pe calculator",
+            "type": "Laborator",
+            "group_target": "info3 gr3",
+            "professor": "Spec. IT Murariu Alexandru",
+            "room": "P19",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Inteligenta artificiala",
+            "type": "Laborator",
+            "group_target": "info3 gr3",
+            "professor": "Spec. IT Barnat Emil",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Grafica pe calculator",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Inteligenta artificiala",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "A5 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "A5 (Corp B)",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Fundamentele Blockchain",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Iordache D.",
+            "room": "AulaB",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Tehnici de optimizare",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AulaB",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "specialization": "informatica",
+    "year": 3,
+    "group": 4,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": []
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Fundamente blockchain",
+            "type": "Laborator",
+            "group_target": "info3 gr4",
+            "professor": "lect. dr. Iordache D.",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Securitatea sistemelor informatice",
+            "type": "Laborator",
+            "group_target": "info3 gr4",
+            "professor": "Spec. IT Cata Marian",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional IX - Securitatea sistemelor informatice",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "AulaB",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Inteligenta artificiala",
+            "type": "Laborator",
+            "group_target": "info3 gr4",
+            "professor": "Spec. IT Barnat Emil",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Tehnici de optimizare",
+            "type": "Laborator",
+            "group_target": "info3 gr4",
+            "professor": "conf. dr. Pelican E.",
+            "room": "PC114",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Grafica pe calculator",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr4",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Inteligenta artificiala",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "A5 (Corp B)",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Rusu A.",
+            "room": "A5 (Corp B)",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Fundamentele Blockchain",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "lect. dr. Iordache D.",
+            "room": "AulaB",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Tehnici de optimizare",
+            "type": "Curs",
+            "group_target": "info3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AulaB",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Grafica pe calculator",
+            "type": "Laborator",
+            "group_target": "info3 gr4",
+            "professor": "Spec. IT Murariu Alexandru",
+            "room": "sala 053 (Corp A)",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Optional X - Administrare retele",
+            "type": "Laborator",
+            "group_target": "info3 gr4",
+            "professor": "lect. dr. Rusu A.",
+            "room": "P19",
+            "parity": "PARA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "matematica-informatica",
+    "year": 1,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Programare procedurala",
+            "type": "Laborator",
+            "group_target": "mi1",
+            "professor": "Spec. IT Boldeanu Marius-Paul",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Geometrie 2",
+            "type": "Curs",
+            "group_target": "mi1",
+            "professor": "lect. dr. Ciuca M.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Practica de specialitate",
+            "type": "Laborator",
+            "group_target": "mi1",
+            "professor": "asist. drd. Vintu V.",
+            "room": "V3B",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Practica de specialitate",
+            "type": "Laborator",
+            "group_target": "mi1",
+            "professor": "asist. drd. Vintu V.",
+            "room": "V3B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Geometrie II (Geometrie analitică și afină)",
+            "type": "Seminar",
+            "group_target": "mi1",
+            "professor": "Spec. IT Straton Bianca",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Programare procedurala",
+            "type": "Curs",
+            "group_target": "mi1",
+            "professor": "conf. dr. Bautu E.",
+            "room": "PC105",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "mi1",
+            "professor": "lect. dr. Georgescu Andreea",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Analiza 2",
+            "type": "Seminar",
+            "group_target": "mi1",
+            "professor": "dr. asist. Vintu V.",
+            "room": "D2B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Algebra II (Structuri algebrice)",
+            "type": "Curs",
+            "group_target": "mi1",
+            "professor": "lect. dr. Iorgulescu G.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "mi1",
+            "professor": "lect. dr. Popescu C.",
+            "room": "CERP",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Analiza 2",
+            "type": "Curs",
+            "group_target": "mi1",
+            "professor": "prof. dr. Costara C.",
+            "room": "S1B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Complemente de matematici scolare II (Bazele geometriei elementare)",
+            "type": "Curs",
+            "group_target": "mi1",
+            "professor": "lect. dr. Iorgulescu G.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Algebra II (Structuri algebrice)",
+            "type": "Seminar",
+            "group_target": "mi1",
+            "professor": "lect. dr. Iorgulescu G.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sisteme de operare",
+            "type": "Curs",
+            "group_target": "mi1",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "AB1",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sisteme de operare",
+            "type": "Laborator",
+            "group_target": "mi1",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC109",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "specialization": "matematica-informatica",
+    "year": 2,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Teoria probabilitatilor si statistica matematica",
+            "type": "Seminar",
+            "group_target": "gr1 / mi2 / Spec. IT",
+            "professor": "Rusu Andreas",
+            "room": "D2B",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Ecuatii diferentiale",
+            "type": "Seminar",
+            "group_target": "gr1 / mi2",
+            "professor": "prof. dr. Cosma L.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional V - Astronomie",
+            "type": "Seminar",
+            "group_target": "gr1 / mi2",
+            "professor": "dr. Prodan Madalina",
+            "room": "CERP",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Analiza complexa",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "prof. dr. Costara C.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "gr1 / mi2",
+            "professor": "lect. dr. Popescu C.",
+            "room": "D2B",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Analiza complexa",
+            "type": "Seminar",
+            "group_target": "gr1 / mi2",
+            "professor": "prof. dr. Costara C.",
+            "room": "S1B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Ecuatii diferentiale",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "prof. dr. Cosma L.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Logica computationala",
+            "type": "Laborator",
+            "group_target": "gr1 / mi2",
+            "professor": "asist. drd. Vintu V.",
+            "room": "P19",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Teoria probabilitatilor si statistica matematica",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "prof. dr. Vernic R.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Opţional VI - Analiză numerică",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional V - Astronomie",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "dr. Prodan Madalina",
+            "room": "AB1",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Logica computationala",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "lect. dr. Rusu A.",
+            "room": "AB1",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "gr1 / mi2",
+            "professor": "lect. dr. Abramciuc Alexandru",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Optional VI - Analiza numerica",
+            "type": "Laborator",
+            "group_target": "gr1 / mi2",
+            "professor": "asist. drd. Vintu V.",
+            "room": "PC114",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "matematica-informatica",
+    "year": 2,
+    "group": 2,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Sport",
+            "type": "Seminar",
+            "group_target": "mi2 gr2",
+            "professor": "lect. dr. Tomescu G.",
+            "room": "Baza Nautica",
+            "parity": "PARA"
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Teoria probabilitatilor si statistica matematica",
+            "type": "Seminar",
+            "group_target": "mi2 gr2",
+            "professor": "Spec. IT Rusu Andreas",
+            "room": "D2B",
+            "parity": "IMPARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Logica computationala",
+            "type": "Laborator",
+            "group_target": "mi2 gr2",
+            "professor": "asist. drd. Vintu V.",
+            "room": "PC109",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Limba engleza",
+            "type": "Seminar",
+            "group_target": "mi2 gr2",
+            "professor": "lect. dr. Popescu C.",
+            "room": "PC08",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Analiza complexa",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "prof. dr. Costara C.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Analiza complexa",
+            "type": "Seminar",
+            "group_target": "mi2 gr2",
+            "professor": "prof. dr. Costara C.",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional V - Astronomie",
+            "type": "Seminar",
+            "group_target": "mi2 gr2",
+            "professor": "dr. Prodan Madalina",
+            "room": "CERP",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Ecuatii diferentiale",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "prof. dr. Cosma L.",
+            "room": "AB1",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Teoria probabilitatilor si statistica matematica",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "prof. dr. Vernic R.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Opţional VI - Analiză numerică",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional V - Astronomie",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "dr. Prodan Madalina",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Optional VI - Analiza numerica",
+            "type": "Laborator",
+            "group_target": "mi2 gr2",
+            "professor": "asist. drd. Vintu V.",
+            "room": "Umberto Eco (Corp A)",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Logica computationala",
+            "type": "Curs",
+            "group_target": "mi2",
+            "professor": "lect. dr. Rusu A.",
+            "room": "AB1",
+            "parity": "PARA"
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Ecuatii diferentiale",
+            "type": "Seminar",
+            "group_target": "mi2 gr2",
+            "professor": "drd. Turtoi Raluca",
+            "room": "PC105",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "specialization": "matematica-informatica",
+    "year": 3,
+    "group": 1,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Baze de date",
+            "type": "Laborator",
+            "group_target": "mi3 gr1",
+            "professor": "conf. dr. Bautu E.",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Grafuri si combinatorica",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "lect. dr. Cirlig G",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Grafuri si combinatorica",
+            "type": "Seminar",
+            "group_target": "mi3 gr1",
+            "professor": "lect. dr. Cirlig G",
+            "room": "S1B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Baze de date",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Tehnici de optimizare",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Tehnici de optimizare",
+            "type": "Laborator",
+            "group_target": "mi3 gr1",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC114",
+            "parity": "IMPARA"
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Retele de calculatoare",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Cercetari operationale",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Badea M.G.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Optional XII - Grafica pe calculator",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "PC101",
+            "parity": null
+          },
+          {
+            "start": "14:00",
+            "end": "16:00",
+            "course": "Retele de calculatoare",
+            "type": "Laborator",
+            "group_target": "mi3 gr1",
+            "professor": "conf. dr. Nicola A.",
+            "room": "PC101",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Cercetari operationale",
+            "type": "Seminar",
+            "group_target": "mi3 gr1",
+            "professor": "asist. drd. Vintu V.",
+            "room": "PC109",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Optional XII - Grafica pe calculator",
+            "type": "Laborator",
+            "group_target": "mi3 gr1",
+            "professor": "Spec. IT Closcariu Petrica",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "specialization": "matematica-informatica",
+    "year": 3,
+    "group": 2,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "days": [
+      {
+        "day": "Luni",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Grafuri si combinatorica",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "lect. dr. Cirlig G",
+            "room": "S1B",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Grafuri si combinatorica",
+            "type": "Seminar",
+            "group_target": "mi3 gr2",
+            "professor": "lect. dr. Cirlig G",
+            "room": "S1B",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Marți",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Baze de date",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Bautu E.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Tehnici de optimizare",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Pelican E.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Tehnici de optimizare",
+            "type": "Laborator",
+            "group_target": "mi3 gr2",
+            "professor": "lect. dr. Ionescu A.",
+            "room": "PC114",
+            "parity": "PARA"
+          }
+        ]
+      },
+      {
+        "day": "Miercuri",
+        "slots": [
+          {
+            "start": "08:00",
+            "end": "10:00",
+            "course": "Retele de calculatoare",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Nicola A.",
+            "room": "PC105",
+            "parity": null
+          },
+          {
+            "start": "10:00",
+            "end": "12:00",
+            "course": "Cercetari operationale",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "conf. dr. Badea M.G.",
+            "room": "AB1",
+            "parity": null
+          },
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Optional XII - Grafica pe calculator",
+            "type": "Curs",
+            "group_target": "mi3",
+            "professor": "prof. dr. Popovici D.M.",
+            "room": "PC101",
+            "parity": null
+          },
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Retele de calculatoare",
+            "type": "Laborator",
+            "group_target": "mi3 gr2",
+            "professor": "conf. dr. Nicola A.",
+            "room": "PC101",
+            "parity": null
+          },
+          {
+            "start": "18:00",
+            "end": "20:00",
+            "course": "Optional XII - Grafica pe calculator",
+            "type": "Laborator",
+            "group_target": "mi3 gr2",
+            "professor": "Spec. IT Closcariu Petrica",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Joi",
+        "slots": [
+          {
+            "start": "12:00",
+            "end": "14:00",
+            "course": "Cercetari operationale",
+            "type": "Seminar",
+            "group_target": "mi3 gr2",
+            "professor": "asist. drd. Vintu V.",
+            "room": "E29",
+            "parity": null
+          }
+        ]
+      },
+      {
+        "day": "Vineri",
+        "slots": [
+          {
+            "start": "16:00",
+            "end": "18:00",
+            "course": "Baze de date",
+            "type": "Laborator",
+            "group_target": "mi3 gr2",
+            "professor": "conf. dr. Bautu E.",
+            "room": "PC107",
+            "parity": null
+          }
+        ]
+      }
+    ]
+  }
+]

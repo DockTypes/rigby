@@ -1,0 +1,79 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio & Gradle build artifacts
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# API Keys — NEVER commit secrets
+lib/core/config/api_keys.dart
+!lib/core/config/api_keys.dart.example
+
+# Firebase configuration & credentials
+android/app/google-services.json
+!android/app/google-services.json.example
+ios/Runner/GoogleService-Info.plist
+!ios/Runner/GoogleService-Info.plist.example
+lib/firebase_options.dart
+
+# Python cache & scripts data
+__pycache__/
+*.py[cod]
+scripts/.cache/
+
+# Android signing keystore & passwords
+android/key.properties
+android/*.jks
+android/*.keystore
+
+# Build Artifacts
+*.apk
+
+# Debug Files & Scratch files
+response.json
+scratch_*.txt
+scratch/
+

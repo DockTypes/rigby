@@ -1,0 +1,10 @@
+# Copiază acest fișier ca "key.properties" și completează cu valorile reale.
+# NICIODATĂ nu adăuga key.properties în git (este deja în .gitignore).
+#
+# Cum creezi un keystore:
+#   keytool -genkey -v -keystore rigby-release.jks -keyalg RSA -keysize 2048 -validity 10000 -alias rigby
+#
+storeFile=../rigby-release.jks
+storePassword=PAROLA_TU_KEYSTORE
+keyAlias=rigby
+keyPassword=PAROLA_TU_CHEIE

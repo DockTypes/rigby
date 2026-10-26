@@ -1,0 +1,23 @@
+class ApiKeys {
+  ApiKeys._();
+
+  /// Google Gemini API Key from Google AI Studio.
+  /// Pass via `--dart-define=GEMINI_KEY=your_key` or set default here for local development.
+  static const String gemini = String.fromEnvironment(
+    'GEMINI_KEY',
+    defaultValue: 'YOUR_GEMINI_KEY_HERE',
+  );
+
+  /// ElevenLabs API Key for realistic AI text-to-speech.
+  /// Pass via `--dart-define=ELEVEN_LABS_KEY=your_key` or set default here for local development.
+  static const String elevenLabs = String.fromEnvironment(
+    'ELEVEN_LABS_KEY',
+    defaultValue: 'YOUR_ELEVENLABS_KEY_HERE',
+  );
+
+  /// ElevenLabs Voice ID (optional, defaults to preselected voice).
+  static const String elevenLabsVoiceId = String.fromEnvironment(
+    'ELEVEN_LABS_VOICE_ID',
+    defaultValue: 'UgBBYS2sOqTuMpoF3BR0',
+  );
+}
